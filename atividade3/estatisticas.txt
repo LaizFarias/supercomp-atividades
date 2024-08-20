@@ -1,0 +1,4 @@
+Número total de palavras: 71
+Número total de linhas: 1
+Número médio de palavras por linha: 71
+Palavra mais frequente: para (7 vezes)
